@@ -1,3 +1,5 @@
+# Python quiz game
+
 questions = ("1. How many elements are in periodic table?: ",
             "2. Which animal lays the largest eggs?: ",
             "3. What is the most abundant gas in Earths atmosphere?: ",
